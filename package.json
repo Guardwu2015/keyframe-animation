@@ -20,7 +20,7 @@
   "author": "ustbhuangyi",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^1.12.11",
+    "webpack": "^5.74.0",
     "webpack-dev-server": "^1.14.1"
   }
 }
